@@ -1,6 +1,7 @@
-# Modding my Sovol sv08.
+# Sovol sv08 modding.
 ## Overview
-This repository contains my modding-project.
+
+XOL-toolhead with a cartographer probe.
 
 ## Hardware
 1. `Probe`     [Cartographer3D](https://cartographer3d.com/products/copy-of-cartographer-probe-v3-with-adxl345-standard-edition-both-can-usb) 
