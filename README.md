@@ -2,6 +2,7 @@
 ## Overview
 
 XOL-toolhead with a cartographer probe.
+This is the setup i chose to go with, there are of course other setup´s to choose from over at Armchair-Heavy-Industries.
 
 ## Hardware
 1. `Probe`     [Cartographer3D](https://cartographer3d.com/products/copy-of-cartographer-probe-v3-with-adxl345-standard-edition-both-can-usb) 
