@@ -1,4 +1,4 @@
-# Modding my Sovol sv08 with a new toolhead + cartographer
+# Modding my Sovol sv08.
 ## Overview
 This repository contains my modding-project.
 
