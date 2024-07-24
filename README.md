@@ -10,9 +10,6 @@ There are of course other setup´s to choose from over at Armchair-Heavy-Industr
 2. `Toolboard` [Ebb36 V1.2](https://github.com/bigtreetech/EBB)
 3. `Extruder`  [Orbiter 2.0](https://www.orbiterprojects.com/orbiter-v2-0)
 4. `Hotend`    [Rapido Hotend 2 UHF](https://www.phaetus.com/products/rapido2?variant=45177211257109)
-5. `Mainboard` [BIGTREETECH Manta M8P V2.0](https://github.com/bigtreetech/Manta-M8P)
-6. `CB2 board`  [BIGTREETECH CB2](https://github.com/bigtreetech/cb2)
-7. `Nozzle cam` [**TBD?**](https://github.com/3DO-EU/Enclosure-Nozzle-Camera-V2)
 
 
 ## 
@@ -21,7 +18,11 @@ There are of course other setup´s to choose from over at Armchair-Heavy-Industr
 
 
 **After toolhead is done**<br>
-`Stealthchanger` [StealthChanger](https://github.com/DraftShift/StealthChanger)
+1. `Mainboard` [BIGTREETECH Manta M8P V2.0](https://github.com/bigtreetech/Manta-M8P)
+2. `CB2 board`  [BIGTREETECH CB2](https://github.com/bigtreetech/cb2)
+3. `Nozzle cam` [**TBD?**](https://github.com/3DO-EU/Enclosure-Nozzle-Camera-V2)
+4. `Stealthchanger` [StealthChanger](https://github.com/DraftShift/StealthChanger)
+
 
 ## Contributing
 Feel free to open issues or submit pull requests for further improvements.
