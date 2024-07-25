@@ -1,30 +1,47 @@
-# Sovol sv08 modding.
+# SV08 MODDING.
 ## Overview
 
-**XOL-toolhead with a cartographer probe.** <br>
-This is the setup i picked to run with. <br>
-There are of course other setup´s to choose from over at Armchair-Heavy-Industries.
+**XOL-toolhead with a cartographer probe.** <p>
 
-## Hardware
-1. `Probe`     [Cartographer3D](https://cartographer3d.com/products/copy-of-cartographer-probe-v3-with-adxl345-standard-edition-both-can-usb) 
-2. `Toolboard` [Ebb36 V1.2](https://github.com/bigtreetech/EBB)
-3. `Extruder`  [Orbiter 2.0](https://www.orbiterprojects.com/orbiter-v2-0)
-4. `Hotend`    [Rapido Hotend 2 UHF](https://www.phaetus.com/products/rapido2?variant=45177211257109)
+<p>Below is the setup i picked to run with.</p>
 
-**I am waiting for all parts to arrive.** <br>
-**Printing the parts for the toolholder while waiting** <br>
-**Need to do a mount for cartographer**
+
+|   Hardware     | Link |
+|:-------------|-----------|
+|Probe/scanner| [Cartographer3D](https://cartographer3d.com/products/copy-of-cartographer-probe-v3-with-adxl345-standard-edition-both-can-usb) |
+|Toolboard    | [Ebb36 V1.2](https://github.com/bigtreetech/EBB) |
+|Extruder     | [Orbiter 2.0](https://www.orbiterprojects.com/orbiter-v2-0) |
+|Hotend       | [Rapido Hotend 2 UHF](https://www.phaetus.com/products/rapido2?variant=45177211257109) |
+|Mainboard    | [Cartographer3D](https://cartographer3d.com/products/copy-of-cartographer-probe-v3-with-adxl345-standard-edition-both-can-usb) |
+|CB2 board    | [CB2](https://github.com/bigtreetech/cb2) |
+<br>
+<br>
+
+*Under consideration*<br>
+|   Hardware     | Link |
+|:-------------|-----------|
+|Nozzle cam    | [TBD](https://github.com/3DO-EU/Enclosure-Nozzle-Camera-V2) |
+|Stealthchanger | [TBD](https://github.com/DraftShift/StealthChanger) |
+
+
+
+## Status:
+**- Waiting for all parts to arrive.** <br>
+**- Meanwhile printing parts for the toolhead** <br>
+**- Need to fix a mount for cartographer**
+ 
 
 ## 
 ### 
-- This is how i envision it ![](https://github.com/Marduc666/sv08-modding/blob/main/images/sv08.png?raw=true)
+ It will look something like this when done
+<br>  
+  <img src="images/sv08.png" width="300" />
+<br> 
+<br> 
 
 
-**After toolhead is done**<br>
-1. `Mainboard` [BIGTREETECH Manta M8P V2.0](https://github.com/bigtreetech/Manta-M8P)
-2. `CB2 board`  [BIGTREETECH CB2](https://github.com/bigtreetech/cb2)
-3. `Nozzle cam` [**TBD?**](https://github.com/3DO-EU/Enclosure-Nozzle-Camera-V2)
-4. `Stealthchanger` [StealthChanger](https://github.com/DraftShift/StealthChanger)
+**Armchair-Heavy-Industries**<br>
+[Multiple configurations to choose from](https://github.com/Armchair-Heavy-Industries)
 
 
 ## Contributing
