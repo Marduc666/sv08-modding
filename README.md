@@ -12,7 +12,7 @@
 |Toolboard    | [Ebb36 V1.2](https://github.com/bigtreetech/EBB) |
 |Extruder     | [Orbiter 2.0](https://www.orbiterprojects.com/orbiter-v2-0) |
 |Hotend       | [Rapido Hotend 2 UHF](https://www.phaetus.com/products/rapido2?variant=45177211257109) |
-|Mainboard    | [Cartographer3D](https://cartographer3d.com/products/copy-of-cartographer-probe-v3-with-adxl345-standard-edition-both-can-usb) |
+|Mainboard    | [BTT MANTA M8P](https://biqu.equipment/products/manta-m4p-m8p) |
 |CB2 board    | [CB2](https://github.com/bigtreetech/cb2) |
 <br>
 <br>
