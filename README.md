@@ -11,6 +11,9 @@ There are of course other setup´s to choose from over at Armchair-Heavy-Industr
 3. `Extruder`  [Orbiter 2.0](https://www.orbiterprojects.com/orbiter-v2-0)
 4. `Hotend`    [Rapido Hotend 2 UHF](https://www.phaetus.com/products/rapido2?variant=45177211257109)
 
+**I am waiting for all parts to arrive.** <br>
+**Printing the parts for the toolholder while waiting** <br>
+**Need to do a mount for cartographer**
 
 ## 
 ### 
