@@ -26,17 +26,19 @@
 
 
 ## Status:
-**- Waiting for all parts to arrive.** <br>
-**- Meanwhile printing parts for the toolhead** <br>
-**- Need to fix a mount for cartographer** <br>
-**- Just started working on some ideas i have regarding a mount-plate for electronics** <br><br>
-<img src="images/fastener.png" width="300" /><img src="images/plate.png" width="300" />
-
+<ul>
+<b>- Waiting for all parts to arrive.</b><br>
+<b> - Printing parts for the toolhead </b><br>
+✅ <mark><s> Need to fix a mount for cartographer </s></mark> <br>
+<b> - Just started working on some ideas i have regarding a mount-plate for electronics </b></ul> <br><br>
+ 
+<kbd><img src="images/fastener.png" width="300" /></kbd> <kbd><img src="images/plate.png" width="300" /></kbd>
+ 
 ## 
 ### 
  The toolhead will look something like this when it´s done
 <br>  
-  <img src="images/sv08.png" width="300" />
+  <kbd><img src="images/sv08.png" width="300" /></kbd> <kbd><img src="images/view_below.png" width="300" /></kbd>
 <br> 
 <br> 
 
