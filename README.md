@@ -14,6 +14,7 @@
 | ✅   | Hotend| [Rapido Hotend 2 UHF](https://www.phaetus.com/products/rapido2?variant=45177211257109) |
 | ✅   |Mainboard | [BTT MANTA M8P](https://biqu.equipment/products/manta-m4p-m8p) |
 | ✅   | CB2 board| [CB2](https://github.com/bigtreetech/cb2) |
+| ✅   |Fans, Hw-kit, RGBW |[Replimat](https://www.replimat.eu/projects/xol)      |
 <br>
 <br>
 
@@ -27,9 +28,11 @@
 
 ## Status:
 <ul>
-<b>- Waiting for all parts to arrive.</b><br>
-<b> - Printing parts for the toolhead </b><br>
-✅ <mark><s> Need to fix a mount for cartographer </s></mark> <br>
+ ✅<b><mark><s> - Print all parts for the toolhead </s></mark></b><br>
+ ✅ <mark><s>- Need to fix a mount for cartographer </s></mark> <br>
+ <b>- Waiting for all parts to arrive.</b><br>
+<br>
+
 <b> - Just started working on some ideas i have regarding a mount-plate for electronics </b></ul> <br><br>
  
 <kbd><img src="images/fastener.png" width="300" /></kbd> <kbd><img src="images/plate.png" width="300" /></kbd> <br>
