@@ -31,9 +31,11 @@
  ✅<b><mark><s> - Print all parts for the toolhead </s></mark></b><br>
  ✅ <mark><s>- Need to fix a mount for cartographer </s></mark> <br>
  <b>- Waiting for all parts to arrive.</b><br>
+<b> - Realized i forgot to order nepixel and wire :bowtie: </b>b>
 <br>
-
-<b> - Just started working on some ideas i have regarding a mount-plate for electronics </b></ul> <br><br>
+<br>
+<br>
+<b> - Started working on some ideas i have regarding a mount-plate for electronics </b></ul> <br>
  
 <kbd><img src="images/fastener.png" width="300" /></kbd> <kbd><img src="images/plate.png" width="300" /></kbd> <br>
 <kbd><img src="images/plate/fastener.png" width="300" /></kbd>
