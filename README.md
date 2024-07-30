@@ -31,7 +31,7 @@
  ✅<b><mark><s> - Print all parts for the toolhead </s></mark></b><br>
  ✅ <mark><s>- Need to fix a mount for cartographer </s></mark> <br>
  <b>- Waiting for all parts to arrive.</b><br>
-<b> - Realized i forgot to order nepixel and wire :bowtie: </b>b>
+<b> - Realized i forgot to order neopixel and wire :bowtie: </b>b>
 <br>
 <br>
 <br>
