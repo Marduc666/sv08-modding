@@ -8,7 +8,7 @@
 
 |   Received   |  Hardware |    Link    |
 |:-------------|-----------|------------|
-| :x:   | Probe/scanner| [Cartographer3D](https://cartographer3d.com/products/copy-of-cartographer-probe-v3-with-adxl345-standard-edition-both-can-usb) |
+| ✅   | Probe/scanner| [Cartographer3D](https://cartographer3d.com/products/copy-of-cartographer-probe-v3-with-adxl345-standard-edition-both-can-usb) |
 | ✅   |Toolboard | [Ebb36 V1.2](https://github.com/bigtreetech/EBB) |
 | ✅   | Extruder| [Orbiter 2.0](https://www.orbiterprojects.com/orbiter-v2-0) |
 | ✅   | Hotend| [Rapido Hotend 2 UHF](https://www.phaetus.com/products/rapido2?variant=45177211257109) |
